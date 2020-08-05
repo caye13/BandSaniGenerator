@@ -2,8 +2,8 @@
 //  SceneDelegate.swift
 //  BandSaniGenerator
 //
-//  Created by Ck2 Jedi on 7/29/20.
-//  Copyright © 2020 Make School. All rights reserved.
+//  Created by Caye on 7/29/20.
+//  Copyright © 2020 caye. All rights reserved.
 //
 
 import UIKit

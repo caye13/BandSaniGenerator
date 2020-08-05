@@ -95,7 +95,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 1160;
 				LastUpgradeCheck = 1160;
-				ORGANIZATIONNAME = "Make School";
+				ORGANIZATIONNAME = caye;
 				TargetAttributes = {
 					60F7734624D226EA00B40F8E = {
 						CreatedOnToolsVersion = 11.6;
@@ -291,7 +291,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.makeschool.BandSaniGenerator;
+				PRODUCT_BUNDLE_IDENTIFIER = com.caye.BandSaniGenerator;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -309,7 +309,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.makeschool.BandSaniGenerator;
+				PRODUCT_BUNDLE_IDENTIFIER = com.caye.BandSaniGenerator;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
